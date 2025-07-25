@@ -1,4 +1,4 @@
-🚀 #Proyecto Final: Sistema de Control de Acceso por Reconocimiento Facial con YOLOv10
+🚀 **Proyecto Final: Sistema de Control de Acceso por Reconocimiento Facial con YOLOv10**
 
 ¡Bienvenido al repositorio del proyecto final del curso Teoría de Aprendizaje de Máquina! Aquí encontrarás todo el código, modelos y documentación necesarios para entender y replicar nuestro sistema de control de acceso basado en reconocimiento facial, optimizado para dispositivos embebidos como la NVIDIA Jetson Nano.
 
